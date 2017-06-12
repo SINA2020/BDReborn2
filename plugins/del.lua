@@ -26,7 +26,7 @@ local function run(msg, matches)
 end
 return {
     patterns = {
-        '^[!#/](پاک کردن ) (%d*)$',
+        '^(پاک کردن ) (%d*)$',
     },
     run = run
 }
