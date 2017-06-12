@@ -90,7 +90,7 @@ function create_config( )
                 "del",
                 "delall",
                 "addkick",
-                "cleanebot",
+                "cleanbot",
 		"fun",
 
 	},
