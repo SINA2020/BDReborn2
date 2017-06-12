@@ -87,6 +87,10 @@ function create_config( )
 		"msg-checks",
 		"plugins",
 		"tools",
+                "del",
+                "delall",
+                "addkick",
+                "cleanebot",
 		"fun",
 
 	},
